@@ -1,0 +1,4 @@
+import numpy as np
+Array=np.arange(100,200,10)
+Array=Array.reshape(5,2)
+print(Array)
